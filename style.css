@@ -1,0 +1,116 @@
+
+.background1 {
+background-image: url(center.jpg);
+background-repeat: no-repeat;
+}
+
+#title{
+font: normal 18px verdana, arial, sans-serif;
+width: 615px;
+margin-bottom: 8;
+float: left;
+text-align: left;
+color: #373931;
+}
+
+
+#userdiv{
+font: normal 12px verdana, arial, sans-serif;
+width: 615px;
+margin-bottom: 0;
+float: left;
+text-align: left;
+color: #373931;
+}
+
+#userdiv a:hover{
+color: #3F8543;
+}
+
+#userdiv a{
+font-weight: bold;
+margin-right: 4px;
+text-decoration: none;
+color: #235E63;
+}
+
+#footer{
+font: normal 12px verdana, arial, sans-serif;
+width: 695px;
+margin-bottom: 4;
+float: center;
+text-align: center;
+color: #373931;
+line-height: 20px
+}
+
+#footer a:hover{
+color: #3F8543;
+}
+
+#footer a{
+font-weight: bold;
+margin-right: 4px;
+text-decoration: none;
+color: #235E63;
+}
+
+#userdivbox{
+font: normal 12px verdana, arial, sans-serif;
+position: relative;
+margin-bottom: 3px;
+top: 33px;
+outline: none;
+}
+
+#userdivbox a{
+font-weight: bold;
+margin-right: 4px;
+text-decoration: none;
+color: #98A741;
+}
+
+#userdivbox a:hover{
+color: red;
+}
+
+#topformbox{
+border: 1px solid gray;
+background: #FBFCFA;
+font: 11px verdana, ariel, sans-serif;
+color: #443;
+padding: 3px;
+outline: none;
+}
+
+#clearformbox{
+border: 0px;
+background: white;
+font: 11px verdana, sans-serif;
+color: #443;
+padding: 3px;
+outline: none;
+}
+
+#menuformbox{
+border: 0px;
+background: #EBECEA;
+font: 11px verdana, sans-serif;
+color: #443;
+padding: 3px;
+outline: none;
+}
+
+.mybuttonbox { cursor:pointer;  margin-top:5px;  border:outset 1px #ccc; background:#999; font-size:.9em; color:#666; font-weight:bold; padding:5px;  background:url(button-bg.gif) repeat-x left top; padding:1px; }
+
+#pathlinks{
+clear: right;
+font: bold 110% verdana, Verdana;
+margin-top: 0.5em;
+margin-bottom: 1em;
+margin-left: 4px;
+}
+
+#pathlinks a:hover{
+color: red;
+}
